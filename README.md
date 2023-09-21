@@ -5,7 +5,6 @@
 👯 Estou procurando colaborar em projetos Front-end  
 📫 Como entrar em contato comigo: amandascam03@gmail.com  
 😄 Pronomes: Ela/Dela  
-⚡ Curiosidades: Cat lover & metalhead
 📈 Growth Mindset
 </div>
 
