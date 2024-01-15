@@ -1,7 +1,7 @@
 <div align="center" dir="auto"><h1>Bem vindo(a) ao meu perfil GitHub 👋</h1>
 
 🚀 Amanda Araujo, 20 anos  
-🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas  
 👯 Estou procurando colaborar em projetos Front-end   
 😄 Pronomes: Ela/Dela  
 📈 Growth Mindset
