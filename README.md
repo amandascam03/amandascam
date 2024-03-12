@@ -6,9 +6,14 @@
 - 👩‍💻 Pronomes: Ela/Dela  
 - 📈 Growth Mindset
 
-<a href="https://github.com/amandascam03/github-readme-stats">
+<a href="github-readme-stats.vercel.app">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amandascam03&theme=date_night" />
+</a><br>
+
+<a href="https://www.codewars.com/users/amandascam03">
+  <img align="center" src="https://www.codewars.com/users/amandascam03/badges/small" />
 </a>
+
 
 <div style="display: inline_block"><br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30"/>
