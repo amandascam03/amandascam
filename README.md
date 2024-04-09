@@ -5,10 +5,14 @@
 - 👯 Estou procurando colaborar em projetos Front-end   
 - 👩‍💻 Pronomes: Ela/Dela  
 - 📈 Growth Mindset
-
+<div>
 <a href="github-readme-stats.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amandascam03&theme=date_night" />
-</a><br>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=amandascam03&theme=date_night" />
+</a>
+<a href="github-readme-stats.vercel.app">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandascam03&layout=compact&theme=date_night" />
+</a>
+</div>
 
 <a href="https://www.codewars.com/users/amandascam03">
   <img align="center" src="https://www.codewars.com/users/amandascam03/badges/small" />
